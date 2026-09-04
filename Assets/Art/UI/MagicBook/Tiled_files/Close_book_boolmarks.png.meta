@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 0c4e021af7408654181426c82dbf53fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2752628934986932979
+    second: Close_book_boolmarks_0
+  - first:
+      213: -2195280592550401164
+    second: Close_book_boolmarks_1
+  - first:
+      213: 6112126065002874713
+    second: Close_book_boolmarks_2
+  - first:
+      213: 14257927921458637
+    second: Close_book_boolmarks_3
+  - first:
+      213: 3047341142730197075
+    second: Close_book_boolmarks_4
+  - first:
+      213: 243800277608488782
+    second: Close_book_boolmarks_5
+  - first:
+      213: -1722732941741782580
+    second: Close_book_boolmarks_6
+  - first:
+      213: -4063012816079057583
+    second: Close_book_boolmarks_7
+  - first:
+      213: -6264999371709992872
+    second: Close_book_boolmarks_8
+  - first:
+      213: -2739231482385861684
+    second: Close_book_boolmarks_9
+  - first:
+      213: -2493498304116327576
+    second: Close_book_boolmarks_10
+  - first:
+      213: 4870005680438301082
+    second: Close_book_boolmarks_11
+  - first:
+      213: -1501172503679273980
+    second: Close_book_boolmarks_12
+  - first:
+      213: 7975273742849410646
+    second: Close_book_boolmarks_13
+  - first:
+      213: -2409197367869822818
+    second: Close_book_boolmarks_14
+  - first:
+      213: 4246189477880730287
+    second: Close_book_boolmarks_15
+  - first:
+      213: -5714896209087485763
+    second: Close_book_boolmarks_16
+  - first:
+      213: 4445381195251584886
+    second: Close_book_boolmarks_17
+  - first:
+      213: 6062896528811844414
+    second: Close_book_boolmarks_18
+  - first:
+      213: -2401109642031761726
+    second: Close_book_boolmarks_19
+  - first:
+      213: -7640564116970791641
+    second: Close_book_boolmarks_20
+  - first:
+      213: -2757179604404087598
+    second: Close_book_boolmarks_21
+  - first:
+      213: 4739328823672695066
+    second: Close_book_boolmarks_22
+  - first:
+      213: -2053329930921779304
+    second: Close_book_boolmarks_23
+  - first:
+      213: -487160527474293347
+    second: Close_book_boolmarks_24
+  - first:
+      213: -4987369864855975635
+    second: Close_book_boolmarks_25
+  - first:
+      213: 5334699292491080044
+    second: Close_book_boolmarks_26
+  - first:
+      213: -4167511210308701547
+    second: Close_book_boolmarks_27
+  - first:
+      213: -748246086710527943
+    second: Close_book_boolmarks_28
+  - first:
+      213: -1006073776550137287
+    second: Close_book_boolmarks_29
+  - first:
+      213: 3666588036422939389
+    second: Close_book_boolmarks_30
+  - first:
+      213: -2444697673233262377
+    second: Close_book_boolmarks_31
+  - first:
+      213: 329679725023557891
+    second: Close_book_boolmarks_32
+  - first:
+      213: -8465128830354995191
+    second: Close_book_boolmarks_33
+  - first:
+      213: -1407518331650648638
+    second: Close_book_boolmarks_34
+  - first:
+      213: -5270319271189884824
+    second: Close_book_boolmarks_35
+  - first:
+      213: 670674430186540765
+    second: Close_book_boolmarks_36
+  - first:
+      213: -1219715703296213766
+    second: Close_book_boolmarks_37
+  - first:
+      213: 7268138030323963614
+    second: Close_book_boolmarks_38
+  - first:
+      213: 1458578254619089534
+    second: Close_book_boolmarks_39
+  - first:
+      213: -749598501659534280
+    second: Close_book_boolmarks_40
+  - first:
+      213: 8683482837382108466
+    second: Close_book_boolmarks_41
+  - first:
+      213: -8160783832148746866
+    second: Close_book_boolmarks_42
+  - first:
+      213: -2156973118526038035
+    second: Close_book_boolmarks_43
+  - first:
+      213: -8906371468035642678
+    second: Close_book_boolmarks_44
+  - first:
+      213: 6549327472453646327
+    second: Close_book_boolmarks_45
+  - first:
+      213: -6989091567904165871
+    second: Close_book_boolmarks_46
+  - first:
+      213: -1128805564776442927
+    second: Close_book_boolmarks_47
+  - first:
+      213: -7858051661888949308
+    second: Close_book_boolmarks_48
+  - first:
+      213: -7748990228647579954
+    second: Close_book_boolmarks_49
+  - first:
+      213: 6460289770353537262
+    second: Close_book_boolmarks_50
+  - first:
+      213: 4112590859615281076
+    second: Close_book_boolmarks_51
+  - first:
+      213: 6528833097643619536
+    second: Close_book_boolmarks_52
+  - first:
+      213: -2156760515531096077
+    second: Close_book_boolmarks_53
+  - first:
+      213: -6128860786628759549
+    second: Close_book_boolmarks_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Close_book_boolmarks_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d54a35192bcc9d0800000000000000
+      internalID: -2752628934986932979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b69b2aeebc881e0800000000000000
+      internalID: -2195280592550401164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95707eec542a2d450800000000000000
+      internalID: 6112126065002874713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdddf88287a23000800000000000000
+      internalID: 14257927921458637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358cdd1bf945a4a20800000000000000
+      internalID: 3047341142730197075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fdefe8f07226300800000000000000
+      internalID: 243800277608488782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc90e94548f9718e0800000000000000
+      internalID: -1722732941741782580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d8fbbde574d97c0800000000000000
+      internalID: -4063012816079057583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 119
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8503e2bc3404e09a0800000000000000
+      internalID: -6264999371709992872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 119
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3f2d6da7b4cf9d0800000000000000
+      internalID: -2739231482385861684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 119
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b7b17e080556dd0800000000000000
+      internalID: -2493498304116327576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d8ac2d5cb59340800000000000000
+      internalID: 4870005680438301082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404fc9bbf83ca2be0800000000000000
+      internalID: -1501172503679273980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6560a0dd63dddae60800000000000000
+      internalID: 7975273742849410646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98205622cfc09ed0800000000000000
+      internalID: -2409197367869822818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2151635de7dea30800000000000000
+      internalID: 4246189477880730287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db82d193d2c90b0b0800000000000000
+      internalID: -5714896209087485763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f0c2af4aa21bd30800000000000000
+      internalID: 4445381195251584886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3367c5354cb32450800000000000000
+      internalID: 6062896528811844414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 96
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c67eef808b8daed0800000000000000
+      internalID: -2401109642031761726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d1c54ca6347f590800000000000000
+      internalID: -7640564116970791641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 96
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4da8902c78cb9d0800000000000000
+      internalID: -2757179604404087598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19e7c0847a75c140800000000000000
+      internalID: 4739328823672695066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fdabc8e4b1183e0800000000000000
+      internalID: -2053329930921779304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d958d43d4124d39f0800000000000000
+      internalID: -487160527474293347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2985c9388d49cab0800000000000000
+      internalID: -4987369864855975635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c616578fdb8a80a40800000000000000
+      internalID: 5334699292491080044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592771872a60a26c0800000000000000
+      internalID: -4167511210308701547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938fa050622bd95f0800000000000000
+      internalID: -748246086710527943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932b4ea0b35b902f0800000000000000
+      internalID: -1006073776550137287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 73
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2bfa8846652e230800000000000000
+      internalID: 3666588036422939389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 73
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d815b33b60b21ed0800000000000000
+      internalID: -2444697673233262377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 73
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3097da396f1439400800000000000000
+      internalID: 329679725023557891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908c5c0dd22d58a80800000000000000
+      internalID: -8465128830354995191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_34
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5dc13e88d777ce0800000000000000
+      internalID: -1407518331650648638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860d4d3db801cd6b0800000000000000
+      internalID: -5270319271189884824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddec43347d6be4900800000000000000
+      internalID: 670674430186540765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc301ab703b21fe0800000000000000
+      internalID: -1219715703296213766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed697f3c70d9dd460800000000000000
+      internalID: 7268138030323963614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a1ea7d139ed3410800000000000000
+      internalID: 1458578254619089534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_40
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c1b606224e895f0800000000000000
+      internalID: -749598501659534280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 34
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2359c5f22ade18870800000000000000
+      internalID: 8683482837382108466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_42
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 34
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dd504a7521fbe80800000000000000
+      internalID: -8160783832148746866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 34
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def50387064e012e0800000000000000
+      internalID: -2156973118526038035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaaf0a7656366480800000000000000
+      internalID: -8906371468035642678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f77e49e2a2e3ea50800000000000000
+      internalID: 6549327472453646327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_46
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110f460bf32c10f90800000000000000
+      internalID: -6989091567904165871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3140bc15da550f0800000000000000
+      internalID: -1128805564776442927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_48
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3f072b5a792f290800000000000000
+      internalID: -7858051661888949308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_49
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceec75617e067490800000000000000
+      internalID: -7748990228647579954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_50
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0330c615f87a950800000000000000
+      internalID: 6460289770353537262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf13ede89bd21930800000000000000
+      internalID: 4112590859615281076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_52
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 11
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d47cde6c131b9a50800000000000000
+      internalID: 6528833097643619536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_53
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 11
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff3e26fcb5a112e0800000000000000
+      internalID: -2156760515531096077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_book_boolmarks_54
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 11
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300fb2f2699e1faa0800000000000000
+      internalID: -6128860786628759549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Close_book_boolmarks_0: -2752628934986932979
+      Close_book_boolmarks_1: -2195280592550401164
+      Close_book_boolmarks_10: -2493498304116327576
+      Close_book_boolmarks_11: 4870005680438301082
+      Close_book_boolmarks_12: -1501172503679273980
+      Close_book_boolmarks_13: 7975273742849410646
+      Close_book_boolmarks_14: -2409197367869822818
+      Close_book_boolmarks_15: 4246189477880730287
+      Close_book_boolmarks_16: -5714896209087485763
+      Close_book_boolmarks_17: 4445381195251584886
+      Close_book_boolmarks_18: 6062896528811844414
+      Close_book_boolmarks_19: -2401109642031761726
+      Close_book_boolmarks_2: 6112126065002874713
+      Close_book_boolmarks_20: -7640564116970791641
+      Close_book_boolmarks_21: -2757179604404087598
+      Close_book_boolmarks_22: 4739328823672695066
+      Close_book_boolmarks_23: -2053329930921779304
+      Close_book_boolmarks_24: -487160527474293347
+      Close_book_boolmarks_25: -4987369864855975635
+      Close_book_boolmarks_26: 5334699292491080044
+      Close_book_boolmarks_27: -4167511210308701547
+      Close_book_boolmarks_28: -748246086710527943
+      Close_book_boolmarks_29: -1006073776550137287
+      Close_book_boolmarks_3: 14257927921458637
+      Close_book_boolmarks_30: 3666588036422939389
+      Close_book_boolmarks_31: -2444697673233262377
+      Close_book_boolmarks_32: 329679725023557891
+      Close_book_boolmarks_33: -8465128830354995191
+      Close_book_boolmarks_34: -1407518331650648638
+      Close_book_boolmarks_35: -5270319271189884824
+      Close_book_boolmarks_36: 670674430186540765
+      Close_book_boolmarks_37: -1219715703296213766
+      Close_book_boolmarks_38: 7268138030323963614
+      Close_book_boolmarks_39: 1458578254619089534
+      Close_book_boolmarks_4: 3047341142730197075
+      Close_book_boolmarks_40: -749598501659534280
+      Close_book_boolmarks_41: 8683482837382108466
+      Close_book_boolmarks_42: -8160783832148746866
+      Close_book_boolmarks_43: -2156973118526038035
+      Close_book_boolmarks_44: -8906371468035642678
+      Close_book_boolmarks_45: 6549327472453646327
+      Close_book_boolmarks_46: -6989091567904165871
+      Close_book_boolmarks_47: -1128805564776442927
+      Close_book_boolmarks_48: -7858051661888949308
+      Close_book_boolmarks_49: -7748990228647579954
+      Close_book_boolmarks_5: 243800277608488782
+      Close_book_boolmarks_50: 6460289770353537262
+      Close_book_boolmarks_51: 4112590859615281076
+      Close_book_boolmarks_52: 6528833097643619536
+      Close_book_boolmarks_53: -2156760515531096077
+      Close_book_boolmarks_54: -6128860786628759549
+      Close_book_boolmarks_6: -1722732941741782580
+      Close_book_boolmarks_7: -4063012816079057583
+      Close_book_boolmarks_8: -6264999371709992872
+      Close_book_boolmarks_9: -2739231482385861684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

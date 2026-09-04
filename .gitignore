@@ -1,0 +1,41 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]ackups/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Unity crash reports and generated packages
+sysinfo.txt
+*.stacktrace
+*.pidb.meta
+*.pdb.meta
+*.apk
+*.aab
+*.unitypackage
+*.psd
+
+# IDE and OS files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Local diagnostics and generated player output
+Diagnostics/
+Assets/_Recovery/
+Assets/_Recovery.meta
+.vsconfig
+*.crash
+*.dmp
